@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Profile Page</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log In</string>
+    <string name="info">I am a student and I live in tbilisi eighteen years old</string>
+    <string name="lasha_latsabidze">lasha latsabidze</string>
+</resources>
